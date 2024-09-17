@@ -1,3 +1,6 @@
+Proyecto de Gestión de Estudiantes
+Este proyecto es una aplicación web para gestionar estudiantes y sus cursos asociados. Permite realizar operaciones básicas de CRUD (Crear, Leer, Actualizar y Eliminar) para alumnos, así como consultar los cursos disponibles y asignar estudiantes a cursos.
+
 - Descripción:
 Aplicación web para gestionar estudiantes y cursos. Permite realizar operaciones CRUD sobre alumnos y consultar cursos y estudiantes.
 
